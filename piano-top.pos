@@ -1,0 +1,35 @@
+### Footprint positions - created on 2025-12-13T22:18:30+0100 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                                                  PosX       PosY       Rot  Side
+BAT1      BS-7        Battery_Holder_Coin_2032_BS-7                        118.1100   -90.1700   90.0000  top
+BAT2      BS-7        Battery_Holder_Coin_2032_BS-7                        181.6100   -90.1700   90.0000  top
+BZ1       Buzzer      Buzzer_12x9.5RM7.6                                   149.8700   -81.2800    0.0000  top
+C1        10_uF       CP_Radial_D4.0mm_P1.50mm                             145.0100   -95.2500  180.0000  top
+C2        100_nF      C_Disc_D3.0mm_W1.6mm_P2.50mm                         146.0500   -91.4400   90.0000  top
+D1        LED         LED_D3.0mm                                           163.8300   -92.7100   90.0000  top
+D2        1N4007      D_DO-41_SOD81_P10.16mm_Horizontal                    163.8300   -87.6300   90.0000  top
+D3        LED         LED_D3.0mm                                           144.7800   -81.2800  180.0000  top
+R1        1_k         R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal   110.4900  -134.3710   90.0000  top
+R2        1_k         R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal   123.1900  -134.3710   90.0000  top
+R3        1_k         R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal   135.8900  -134.3710   90.0000  top
+R4        1_k         R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal   148.5900  -134.3710   90.0000  top
+R5        1_k         R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal   161.2900  -134.3710   90.0000  top
+R6        1_k         R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal   173.9900  -134.3710   90.0000  top
+R7        1_k         R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal   186.6900  -134.3710   90.0000  top
+R8        1_k         R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal   199.3900  -100.3350   90.0000  top
+R9        1_k         R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal   194.3150   -97.7900  180.0000  top
+R10       4.7_k       R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal   199.3900  -134.3710   90.0000  top
+R11       1_k         R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal   135.8900   -69.8450  -90.0000  top
+S1        RR511D1121  E-SWITCH_RR511D1121                                  153.6700   -62.2300  -90.0000  top
+SW1       SW_Push     SW_Push_1P1T_NO_CK_PTS125Sx85PSMTR                   107.9500  -144.7800   90.0000  top
+SW2       SW_Push     SW_Push_1P1T_NO_CK_PTS125Sx85PSMTR                   120.7300  -144.7800   90.0000  top
+SW3       SW_Push     SW_Push_1P1T_NO_CK_PTS125Sx85PSMTR                   133.4300  -144.7800   90.0000  top
+SW4       SW_Push     SW_Push_1P1T_NO_CK_PTS125Sx85PSMTR                   146.0500  -144.7800   90.0000  top
+SW5       SW_Push     SW_Push_1P1T_NO_CK_PTS125Sx85PSMTR                   158.7500  -144.7800   90.0000  top
+SW6       SW_Push     SW_Push_1P1T_NO_CK_PTS125Sx85PSMTR                   171.5300  -144.7800   90.0000  top
+SW7       SW_Push     SW_Push_1P1T_NO_CK_PTS125Sx85PSMTR                   184.1900  -144.7800   90.0000  top
+SW8       SW_Push     SW_Push_1P1T_NO_CK_PTS125Sx85PSMTR                   196.8500  -144.7800   90.0000  top
+U1        NE555P      DIP-8_W7.62mm                                        149.8600   -90.1700    0.0000  top
+## End
